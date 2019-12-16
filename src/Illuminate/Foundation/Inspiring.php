@@ -44,6 +44,7 @@ class Inspiring
             'If you do not have a consistent goal in life, you can not live it in a consistent way. - Marcus Aurelius',
             'No surplus words or unnecessary actions. - Marcus Aurelius',
             'People find pleasure in different ways. I find it in keeping my mind clear. - Marcus Aurelius',
+            'Things are only impossible until they are not. - Jean-Luc Picard'
         ])->random();
     }
 }
